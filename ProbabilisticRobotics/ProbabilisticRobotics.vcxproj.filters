@@ -23,5 +23,8 @@
     <ClCompile Include="door_open_or_close.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="run.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
